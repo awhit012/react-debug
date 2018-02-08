@@ -1,0 +1,39 @@
+.leftBar {
+  height: 780px;
+  width: 400px;
+  /* background-color: #F6F6F8; */
+ }
+
+.navBtn {
+  margin-top:6%;
+  margin-left: 32%;
+
+
+}
+.navBtn:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.homeBtn {
+  margin-top:6%;
+  margin-left: 37%;
+  margin-bottom: 20%;
+
+}
+.homeBtn:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+
+
+
+.column1{
+  height: 780px;
+  width: 28%;
+  background-color: pink;
+  float: left
+
+}
+
+.h1dot{
+  color: pink;
+}
